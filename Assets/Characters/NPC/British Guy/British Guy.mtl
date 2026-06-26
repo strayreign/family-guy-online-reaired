@@ -1,0 +1,42 @@
+# Blender 5.0.1 MTL File: 'None'
+# www.blender.org
+
+newmtl britishGuy_body_FGC_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd npc_iconic_britishGuy_col.png
+
+newmtl britishGuy_brows_FGFG_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd npc_shared_browsBritishGuy_col.png
+map_d npc_shared_browsBritishGuy_col.png
+
+newmtl britishGuy_leftPupil_FGCE_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/npc_shared_pupil_col_Edited.png
+
+newmtl britishGuy_rightPupil_FGCE_mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/npc_shared_pupil_col_Edited.png

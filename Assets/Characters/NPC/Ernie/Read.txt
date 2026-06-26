@@ -1,0 +1,5 @@
+Due to the pupil being weird you will need to get a mix node and set it to multiply.
+After that connect the pupils color to the B on the mix node and the pupil alpha to the factor
+on the mix node after that you can just plug it into the Principled BSDF.
+
+You can also just use the pupils I included that are edited.
